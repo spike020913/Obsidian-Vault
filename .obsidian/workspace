@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6993c14e477ea318",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a216242fe7e123",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DSA Notes/2、Binary Search.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfaba60c5401c9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b4ecfe552878a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c64b5d427329c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1eb9aad0580ebadc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975f787ea22a890d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "07d8bb9c53289028",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6546a79fb8f7570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f04377c6541b88f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA Notes/2、Binary Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f452d372e9183bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSA Notes/2、Binary Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e99730549c57f383",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5b274ff1eea664d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA Notes/2、Binary Search.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "22a216242fe7e123",
+  "lastOpenFiles": [
+    "Data Structure & Algorithm/Array Related.md",
+    "Data Structure & Algorithm/Tree Related.md",
+    "Data Structure & Algorithm/List Related.md",
+    "Leetcode/Sliding Window/3. Longest String.md",
+    "DSA Notes/2、Binary Search.md",
+    "DSA Notes/4、Reverse String and Check Palindrome --- L and R Pointers.md",
+    "DSA Notes/1、Remove duplicates in sorted array --- Fast & Slow Pointers.md",
+    "DSA Notes/3、nSum Problem --- L and R Pointers.md",
+    "DSA Notes/1、Remove duplicates --- Hare & Tortoise.md",
+    "C++/Conversion between char and int.md"
+  ]
+}
